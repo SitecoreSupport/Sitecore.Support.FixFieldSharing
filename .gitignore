@@ -1,0 +1,7 @@
+src/.vs/
+src/packages/
+src/Sitecore.Support.FixFieldSharing/bin/
+src/Sitecore.Support.FixFieldSharing/obj/
+*.pubxml
+*.user
+*.suo
